@@ -1,0 +1,16 @@
+#prs-hole {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    z-index: 1;
+    text-align: left;
+}
+
+#error-page-hole {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    z-index: 100;
+}
